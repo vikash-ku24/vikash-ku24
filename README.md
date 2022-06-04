@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikash Kumar Gupta
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently in the process of advancing my knowledge in Python/Django, SQL(MS SQL, Oracle), ETL(Informatica), BI Tools(IBM Cognos, Tableau, MSBI)
+- 🌱 I’m currently in the process of advancing my knowledge in Python/Django, SQL(MS SQL, Oracle), ETL(Informatica), BI Tools(IBM Cognos, Tableau, Power BI)
 - 💞️ I’m looking to collaborate on Data Science projects mostly releated with SQL(intermediate to advance level) and BI Tools(on IBM and Tableau)
 - 📫 Feel free to contact on vk.gupta1324@gmail.com
 
