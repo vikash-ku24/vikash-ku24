@@ -1,16 +1,26 @@
-- 👋 Hi, I’m Vikash Kumar Gupta, a magician who can find hidden insights from your data. You can also call me "Harry Potter" for this.
-- 👀 I’m interested in Data Science because the value of data is increasing daily, so how can I leave myself behind when the world is moving on?
-- 🌱 I’m currently in the process of advancing my knowledge in Python/Django, SQL(MS SQL, Oracle), ETL(Informatica), BI Tools(IBM Cognos, Tableau, Power BI)
-- 💞️ I’m looking to collaborate on Data Science projects primarily related to SQL(intermediate to advance level) and BI Tools(on IBM and Tableau)
-- 📫 Feel free to contact me on vk.gupta1324@gmail.com
+<h1 align="center">Hi 👋, I'm Vikash Kumar Gupta</h1>
+<h3 align="left">I'm a passionate Data Analyst with a strong foundation in the world of data. I thrive on turning raw data into actionable insights and helping organizations make data-driven decisions.</h3>
 
-Interested to know more about myself:-
-I'm using SQL to fetch data and then I crunch the data and use statistical and mathematical tools along with a pinch of Python programming to find not only meaningful insight but also the beautiful insights which were hidden inside tons of GB(s) and few TB(s) of data, by using tools like IBM Cognos Analytics and Tableau I help clients and customers to understand the magic of data.
+- 🔭 I’m currently working with **Cognizant Technology Solution as a Data Analyst.**
 
-"Let me try to find out what is hiding in your data"
-"Think like Sherlock Homes when dealing with precious items like gold and data"
+- 🌱 I’m currently learning **MS Power BI | Advance SQL**
 
-<!---
-vikash-ku24/vikash-ku24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👯 I’m looking to collaborate on **data analysis and visualization projects**
+
+- 🤝 I’m looking for help with **solving complex problems using data science and analytics.**
+
+- 📫 How to reach me **vikashkumargupta240299@gmail.com**
+
+<h3 align="left">Professional Journey:</h3>
+<p align="left">
+I've had the privilege to work on diverse data projects, from optimizing database performance to developing advanced analytics solutions. My experience spans industries, allowing me to adapt to the unique data needs of each. I'm always eager to take on new challenges, tackle complex problems, and collaborate with cross-functional teams to drive business growth.
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikashku24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikashku24/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
