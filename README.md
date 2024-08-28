@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Gupta</h1>
 <h3 align="left">I'm a passionate Data Analyst with a strong foundation in the world of data. I thrive on turning raw data into actionable insights and helping organizations make data-driven decisions.</h3>
 
-- 🔭 I’m currently working with **Cognizant Technology Solution as a Data Analyst.**
+- 🔭 I’m currently working with **Cognizant Technology Solution as a Power BI Developer.**
 
-- 🌱 I’m currently learning **MS Power BI | Advance SQL**
+- 🌱 I’m proficient using **MS Power BI | Tableau | Advance SQL/MySQL | Pandas | NumPy**
 
 - 👯 I’m looking to collaborate on **data analysis and visualization projects**
 
