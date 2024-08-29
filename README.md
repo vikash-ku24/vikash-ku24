@@ -1,7 +1,3 @@
-Here’s a sample README for your GitHub profile page:
-
----
-
 # Hello, I'm Vikash Kumar Gupta 👋
 
 Welcome to my GitHub profile! I'm a skilled Data Analyst with over 2 years of experience in data modeling, analysis, and visualization. My passion lies in transforming raw data into meaningful insights that drive informed decision-making.
