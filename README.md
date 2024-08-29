@@ -17,16 +17,17 @@ An interactive Power BI dashboard analyzing Zomato’s sales data. Key features 
 ### 📈 [AirBnB Sales Visualization Dashboard](https://github.com/your-username/airbnb-sales-dashboard)
 A Tableau dashboard visualizing AirBnB sales, room availability, and average pricing trends by ZIP Code.
 
-### 🌍 [COVID Trend Visualization Dashboard](https://github.com/your-username/covid-trend-dashboard)
-A Tableau dashboard showcasing COVID-19 trends across continents and countries, with forecast indicators for top-infected countries.
-
 ### 💼 [Data Professionals Insights Dashboard](https://github.com/your-username/data-professionals-dashboard)
 A Power BI dashboard analyzing happiness, salary, work-life balance, and more for data professionals across multiple countries.
 
 ## Connect with Me
 
-- 🌐 **LinkedIn**: [Vikash Kumar Gupta](https://www.linkedin.com/in/vikashku24/)
-- 📧 **Email**: [your-email@example.com](mailto:vikashkumargupta240299@gmail.com)
+- <p>
+  <a href="https://www.linkedin.com/in/vikashku24/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
+</p>
+- 📧 **Email**: [vikashkumargupta240299@gmail.com](mailto:vikashkumargupta240299@gmail.com)
 
 ## Let's Collaborate!
 
