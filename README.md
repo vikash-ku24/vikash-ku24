@@ -27,7 +27,7 @@ A Power BI dashboard analyzing happiness, salary, work-life balance, and more fo
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;
 </p>
-- vikashkumargupta240299@gmail.com
+
 
 ## Let's Collaborate!
 
