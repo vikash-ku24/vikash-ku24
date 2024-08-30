@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm a skilled Data Analyst with over 2 years of ex
 
 ## Featured Projects
 
-### 📊 [Zomato Sales Analysis Dashboard](https://github.com/your-username/zomato-sales-dashboard)
+### 📊 [Zomato Sales Analysis Dashboard](https://github.com/vikash-ku24/Dynamic-Zomato-Sales-Analysis-Dashboard-)
 An interactive Power BI dashboard analyzing Zomato’s sales data. Key features include data modeling, DAX measures, and demographic analysis.
 
-### 📈 [AirBnB Sales Visualization Dashboard](https://github.com/your-username/airbnb-sales-dashboard)
+### 📈 [AirBnB Sales Visualization Dashboard](https://github.com/vikash-ku24/AirBnB-Bedroom-Statistics)
 A Tableau dashboard visualizing AirBnB sales, room availability, and average pricing trends by ZIP Code.
 
-### 💼 [Data Professionals Insights Dashboard](https://github.com/your-username/data-professionals-dashboard)
+### 💼 [Data Professionals Insights Dashboard](https://github.com/vikash-ku24/Data-Professionals-Insights-Dashboard)
 A Power BI dashboard analyzing happiness, salary, work-life balance, and more for data professionals across multiple countries.
 
 ## Connect with Me
